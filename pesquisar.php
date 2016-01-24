@@ -15,3 +15,4 @@ While($reg=mysqli_fetch_row($res)){
 		  </tr
 	</table>";
 }
+?>
